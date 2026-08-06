@@ -1,9 +1,10 @@
 {
-  "version": "2.6.20",
+  "version": "2.6.25",
   "updatedAt": "2026-08-06",
   "files": {
     "tradToSimpChar": "tradToSimpChar.js",
     "tradToSimpPhrase": "tradToSimpPhrase.js",
     "tradToSimpProtected": "tradToSimpProtected.js"
-  }
+  },
+  "githubSyncStatus": "synchronized"
 }
