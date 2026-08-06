@@ -1,4 +1,4 @@
-// Version_Beta_2.6.26 on 2026-08-06 synchronized with GitHub
+// Version_Beta_2.6.27 on 2026-08-06 synchronized with GitHub
 var tradToSimpChar = {
     //number 
     "0": "0","1": "1", "2": "2", "3": "3", "4": "4", "5": "5",
@@ -589,6 +589,6 @@ var tradToSimpChar = {
     // Added by rf3 upload on 2026-08-06 13:31
     "峻": "峻", "爸": "爸", "幻": "幻", "莫": "莫",
 
-    // Added by rf5 upload on 2026-08-06 15:36
+    // Added by rf5 upload on 2026-08-06 18:50
     "影": "影"
 };
